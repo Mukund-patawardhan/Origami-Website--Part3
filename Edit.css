@@ -1,0 +1,94 @@
+/*{
+    border:solid;
+}*/
+
+.heading{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.origami{
+    /*background:linear-gradient(63deg, #999 23%, transparent 23%) 7px 0,
+    linear-gradient(63deg, transparent 74%, #999 78%),
+    linear-gradient(63deg, transparent 34%, #999 38%, #999 58%, transparent 62%),
+    #444;
+    background-size: 16px 48px;
+    background-image: url(chameleon-eye.png);
+    */
+    background: linear-gradient(red,rgb(255, 102, 0),yellow,green,rgb(0, 174, 255),rgb(190, 82, 190));
+}
+.animalsBirds{
+    display:flex;
+    justify-content: space-between;
+}
+.animals{
+    
+}
+.birds{
+    
+}
+.planes{
+    display:flex;
+    justify-content: center;
+}
+.OrigamiInfo{
+    display:flex;
+    justify-content: center;
+    
+}
+.ANIMALS{
+    display:flex;
+    justify-content: space-between;
+}
+.allAnimals{
+    background: repeating-radial-gradient(rgb(6, 84, 173) ,rgb(216, 53, 162) 10%,purple 15%);
+}
+.panda{
+    display:flex;
+    justify-content: flex-start;
+}
+.cat{
+    display:flex;
+    justify-content: flex-end;
+}
+.turtle{
+    display:flex;
+    justify-content: flex-start;
+}
+.infoC{
+    display: flex;
+    justify-content: flex-end;
+}
+.a{
+    flex-grow: 0.1;
+}
+.AllBird{
+    background:-webkit-radial-gradient(100% 0%, rgb(15, 126, 230),green,yellow)
+}
+.AllBirds{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.BIRDS{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.item{
+    
+}
+.allPlanes{
+    background-image: url(stars.gif);
+}
+.PLANES{
+    display:flex;
+    justify-content: flex-start;
+}
+.stats{
+    flex-grow: 0.2;
+}
+.im{
+    flex-grow:0;
+}
+
